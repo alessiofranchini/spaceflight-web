@@ -1,0 +1,32 @@
+#immagine {
+  width: 400px;
+}
+
+#img {
+  width: 100%;
+  height: 300px;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+#link {
+  color: white;
+  text-decoration: none;
+}
+
+#img-detail {
+  height: 200px;
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
+#date {
+  color: rgb(134, 134, 134);
+  font-size: 0.7em;
+  font-weight: bold;
+}
+
+.card1{
+  margin-top: 5em;
+}
